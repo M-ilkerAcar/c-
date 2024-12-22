@@ -1,0 +1,14 @@
+E:\C#\ArrayDizi\obj\Debug\ArrayDizi.csproj.AssemblyReference.cache
+E:\C#\ArrayDizi\obj\Debug\ArrayDizi.csproj.CoreCompileInputs.cache
+E:\C#\ArrayDizi\bin\Debug\ArrayDizi.exe.config
+E:\C#\ArrayDizi\bin\Debug\ArrayDizi.exe
+E:\C#\ArrayDizi\bin\Debug\ArrayDizi.pdb
+E:\C#\ArrayDizi\obj\Debug\ArrayDizi.exe
+E:\C#\ArrayDizi\obj\Debug\ArrayDizi.pdb
+E:\YAZILIMBANKASI\C#\ArrayDizi\obj\Debug\ArrayDizi.csproj.AssemblyReference.cache
+E:\YAZILIMBANKASI\C#\ArrayDizi\obj\Debug\ArrayDizi.csproj.CoreCompileInputs.cache
+E:\YAZILIMBANKASI\C#\ArrayDizi\obj\Debug\ArrayDizi.exe
+E:\YAZILIMBANKASI\C#\ArrayDizi\obj\Debug\ArrayDizi.pdb
+E:\YAZILIMBANKASI\C#\ArrayDizi\bin\Debug\ArrayDizi.exe.config
+E:\YAZILIMBANKASI\C#\ArrayDizi\bin\Debug\ArrayDizi.exe
+E:\YAZILIMBANKASI\C#\ArrayDizi\bin\Debug\ArrayDizi.pdb

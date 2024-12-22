@@ -1,0 +1,2 @@
+E:\YAZILIMBANKASI\C#\Collection\obj\Debug\Collection.csproj.AssemblyReference.cache
+E:\YAZILIMBANKASI\C#\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
