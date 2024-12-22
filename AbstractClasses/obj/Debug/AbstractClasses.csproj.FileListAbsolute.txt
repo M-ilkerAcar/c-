@@ -1,0 +1,7 @@
+E:\YAZILIMBANKASI\C#\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+E:\YAZILIMBANKASI\C#\AbstractClasses\bin\Debug\AbstractClasses.exe
+E:\YAZILIMBANKASI\C#\AbstractClasses\bin\Debug\AbstractClasses.pdb
+E:\YAZILIMBANKASI\C#\AbstractClasses\obj\Debug\AbstractClasses.csproj.AssemblyReference.cache
+E:\YAZILIMBANKASI\C#\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+E:\YAZILIMBANKASI\C#\AbstractClasses\obj\Debug\AbstractClasses.exe
+E:\YAZILIMBANKASI\C#\AbstractClasses\obj\Debug\AbstractClasses.pdb

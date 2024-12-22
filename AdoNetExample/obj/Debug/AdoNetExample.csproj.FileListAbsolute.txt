@@ -1,0 +1,10 @@
+E:\YAZILIMBANKASI\C#\AdoNetExample\bin\Debug\AdoNetExample.exe.config
+E:\YAZILIMBANKASI\C#\AdoNetExample\bin\Debug\AdoNetExample.exe
+E:\YAZILIMBANKASI\C#\AdoNetExample\bin\Debug\AdoNetExample.pdb
+E:\YAZILIMBANKASI\C#\AdoNetExample\obj\Debug\AdoNetExample.csproj.AssemblyReference.cache
+E:\YAZILIMBANKASI\C#\AdoNetExample\obj\Debug\AdoNetExample.Form1.resources
+E:\YAZILIMBANKASI\C#\AdoNetExample\obj\Debug\AdoNetExample.Properties.Resources.resources
+E:\YAZILIMBANKASI\C#\AdoNetExample\obj\Debug\AdoNetExample.csproj.GenerateResource.cache
+E:\YAZILIMBANKASI\C#\AdoNetExample\obj\Debug\AdoNetExample.csproj.CoreCompileInputs.cache
+E:\YAZILIMBANKASI\C#\AdoNetExample\obj\Debug\AdoNetExample.exe
+E:\YAZILIMBANKASI\C#\AdoNetExample\obj\Debug\AdoNetExample.pdb
